@@ -1,0 +1,40 @@
+body {
+  font-family: Georgia, serif;
+  line-height: 1.4;
+  margin: 3em;
+  color: #000;
+}
+
+code {
+	border: 1px solid black;
+	font-weight: bold;
+}
+
+/*---------------------------------- 
+  Together
+------------------------------------*/
+
+/* 1. Make all of the <h3> elements italic.*/
+
+
+/* 2. Make the text-color of all the <a> elements that are 
+descendents of an <li> element green. Important: be sure that the 
+anchor that sits outside of the list doesn't also change to green!*/
+
+
+/* 3. Now change only the <a> that is the 
+direct child of the <li> to be red.*/
+
+
+/*---------------------------------- 
+  Now you try!
+------------------------------------*/
+
+/* 1. Change the text-color of all the <p> elements 
+that are siblings of an <h3> to orange */
+
+
+
+/* 2. Change the text-color of only the <p> elements
+that directly follow an <h3> yellow */
+

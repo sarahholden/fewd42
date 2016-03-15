@@ -1,0 +1,38 @@
+body {
+  font-family: Georgia, serif;
+  line-height: 1.4;
+  margin: 3em;
+  color: #000;
+}
+
+
+/*---------------------------------- 
+  Now you try!
+------------------------------------*/
+
+/*
+	Style the two paragraphs that are notifications.
+	We'll probably add more notifications in the future to this site.
+	You'll want to:
+	1. Decide whether to use a class or id for the two paragraphs.
+	2. Add the class or id to both <p> tags in your html. Call it notification.
+	3. Style that class or id in your CSS.
+		 Make the font-style: italic and the background-color: #CCBB75 
+ */
+
+
+
+
+
+/*
+	Style the list item that says "I am special!"
+	This element gets special/unique styles and this is the only
+	time we'll be adding those styles to our site.
+
+	You'll want to:
+	1. Decide whether to use a class or id for the list item.
+	2. Add the class or id to the <li> in your html. Call it special.
+	3. Style that class or id in your CSS.
+		 Make the font-size: 50px and the color: pink
+ */
+
