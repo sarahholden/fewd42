@@ -1,0 +1,27 @@
+desiredTemperature = get desired temperature
+desiredTemperature = 72
+
+
+repeat every minute
+
+	currentTemperature = get current temperature
+	currentTemperature = 60
+
+	if currentTemperature is greater than or equal to desiredTemperature
+		turn off the heat
+	if currentTemperature is less than desiredTemperature
+		turn on the heat
+
+
+playersChoice = receive choice from paper
+compCHoice = randomly chosen from [rock, paper, scissors]
+
+if playersChoice = rock
+	if compChoice = rock
+		tie
+	else if compChoice = paper
+		computer loses
+	else if compChoice = scissors
+		computer wins
+
+compChoice = randomly chosen from [rock, paper, scissors]
