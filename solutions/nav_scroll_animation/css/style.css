@@ -1,0 +1,67 @@
+html, body {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  font-family: 'lato', sans-serif;
+}
+
+nav {
+  text-transform: uppercase;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 50px;
+  position: fixed;
+  text-align: center;
+  background: #2f333c;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+}
+
+nav ul li {
+  float: left;
+  margin: 0 10px;
+  list-style: none;
+}
+
+nav a {
+  color: #fff;
+  height: 50px;
+  padding: 0 10px;
+  line-height: 50px;
+  display: inline-block;
+  text-decoration: none;
+  color: #999;
+}
+
+nav ul li a:hover {
+  color: white;
+}
+
+section {
+  height: 100%;
+}
+
+.section-inner {
+  padding: 40px;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+#about, #testimonials, #aliens {
+  background-color: #dfdfdf;
+}
+
+#examples, #family {
+  background-color: #F07057;
+}
+
+
+.active {
+  background-color: #00AEEF;
+  color: white;
+}
